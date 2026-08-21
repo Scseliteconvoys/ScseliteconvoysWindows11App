@@ -1,0 +1,9 @@
+BOTÓN NUEVO — 0.0.1.2 BETA
+
+«Elegir ubicación + buscar ETS2»
+
+Al pulsarlo:
+1. Elige dónde instalar S&C Elite.
+2. Busca ETS2 automáticamente en todos los discos locales.
+3. Guarda la ruta encontrada.
+4. Deja preparada la instalación del plug-in.

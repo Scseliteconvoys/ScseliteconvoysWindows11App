@@ -1,0 +1,13 @@
+SCElite Launcher Windows 11 — 0.0.1.2 BETA
+
+INSTALACIÓN
+1. El usuario puede elegir la carpeta donde se instalará S&C Elite.
+2. El launcher busca automáticamente ETS2 en todos los discos locales.
+3. Cuando encuentra una instalación válida, guarda su ruta.
+4. El plug-in se copia automáticamente a la carpeta correspondiente de la instalación encontrada.
+5. El launcher puede abrir ETS2 desde esa ruta.
+
+OBJETIVO
+- No depender de una única letra de disco.
+- Buscar C:, D:, E:, etc. automáticamente.
+- Colocar el plug-in en la instalación de ETS2 detectada.

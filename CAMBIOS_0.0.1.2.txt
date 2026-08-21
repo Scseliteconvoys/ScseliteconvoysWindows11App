@@ -1,0 +1,10 @@
+SCElite Launcher Windows 11 · 0.0.1.2 BETA
+
+Botones actualizados en la aplicación:
+- Comunidad/Web
+- Guardar ruta
+- Plugin ETS2
+
+La búsqueda automática de ETS2 recorre todos los discos locales.
+La ruta se guarda en la configuración.
+El botón Plugin ETS2 coloca el contenido de plugins en <ETS2>\SCElitePlugin.
